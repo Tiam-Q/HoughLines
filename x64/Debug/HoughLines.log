@@ -1,0 +1,6 @@
+﻿  HoughLines.cpp
+C:\Users\Tiam\Desktop\HoughLines\HoughLines.cpp(41,30): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Tiam\Desktop\HoughLines\HoughLines.cpp(86,72): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Tiam\Desktop\HoughLines\HoughLines.cpp(129,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Tiam\Desktop\HoughLines\HoughLines.cpp(130,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  HoughLines.vcxproj -> C:\Users\Tiam\Desktop\HoughLines\x64\Debug\HoughLines.exe
